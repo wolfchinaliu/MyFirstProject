@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jre">
+    <CLASSES>
+      <root url="file://E:/JDK/jdk1.8jre" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

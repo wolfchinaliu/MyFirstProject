@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="providedlib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/10Development/activity-refactor/jwx1.1/providedlib/servlet-api.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/10Development/activity-refactor/jwx1.1/providedlib/jsp-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
